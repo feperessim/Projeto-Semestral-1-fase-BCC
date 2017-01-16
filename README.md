@@ -12,7 +12,7 @@ a manipulação de caracteres.
 
 Para compilar adicione a flag -lncurses.
 
-Project created on the first semester of the course Bachelor degree Computer Cience at the Instituto Federal Catarinense of Rio do Sul,
+Project created on the first semester of the course Bachelor degree Computer Science at the Instituto Federal Catarinense of Rio do Sul,
 over the orientation of the Prof. Dr. Juliano Tonizetti Brignoli.
 The project is about a map that contemplates the region of Alto Vale do Itajaí, which a car walks over the map and its movements are 
 restricted to the traffic rules of the roads available. 
